@@ -20,7 +20,7 @@ Conteúdo da prova:
 - Extranet: Extensão da intranet, que utiliza protocolos abertos para usar a internet como acesso para alguns usuários restritos à intranet.
 
 Caminho de uma requisição:
-	- Cliente --> URL --> HTTP --> DNS (Domínio) e TCP (Interface de rede) --> IP (Internet) --> HTTP (Servidor)
+	- Cliente -->  --> HTTP --> DNS (Domínio) e TCP (Interface de rede) --> IP (Internet) --> HTTP (Servidor)
 	- Após isso, a requisição retorna do servidor para o cliente.
 
 - Componentes cliente-servidor:
@@ -34,7 +34,9 @@ Caminho de uma requisição:
 	- URI: Uniform Resource Indentifier
 	- URL: Uniform Resource Locator --> É uma URI que consegue chegar até o recurso.
 
-![[Pasted image 20241124133918.png]]
+
+http://www.impacta.edu.br/graduacao/exemplo.html
+
 - http: Esquema - Informa o protocolo
 - www.impacta.edu.br: Indica o domínio, obedecendo às regras DNS (Domain Name System)
 - graduaçao: Path / Caminho até o recurso
